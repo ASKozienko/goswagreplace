@@ -1,0 +1,10 @@
+{
+  "replacements": [
+    {
+      "from_operation_id": "V2Onboarding",
+      "to_operation_id": "Onboarding",
+      "to_package_alias": "onboarding",
+      "to_package": "example.com/core/api/v1/gen/onboarding/handler/operations"
+    }
+  ]
+}
